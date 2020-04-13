@@ -1,0 +1,26 @@
+{
+  "name": "Api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jolebowski/Api.git"
+  },
+  "keywords": [],
+  "author": "jolebowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jolebowski/Api/issues"
+  },
+  "homepage": "https://github.com/jolebowski/Api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
