@@ -28,7 +28,8 @@ router.post('/', (req, res) => {
         return res.status(400).json({msg: "Please include  a name a email"})
     }
     members.push(newMember)
-    res.json(members)
+    //res.json(members)
+    res.redirect('/')
 });
 //update memeber
 router.put('/:id', (req,res) => {
