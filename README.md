@@ -21,7 +21,7 @@ An easy way to get started with a Express server offering a REST API with Node.j
 
 ### GET Routes
 
-* visit http://localhost:3000
+* visit http://localhost:3000/api/members
   * /api/members
 
 #### Postman
